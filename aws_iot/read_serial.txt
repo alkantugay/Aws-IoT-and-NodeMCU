@@ -31,13 +31,13 @@ extern "C" {
 
 
 //AWS IOT config, change these:
-char wifi_ssid[]       = "SUPERONLINE-WiFi_0363";
-char wifi_password[]   = "M3RM3RM3RV3*";
-char aws_endpoint[]    = "adop9n5ym93v1-ats.iot.us-east-2.amazonaws.com";
-char aws_key[]         = "AKIA2QMNXZ5AO4NX4B5Y";
-char aws_secret[]      = "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";
-char aws_region[]      = "us-east-2";
-const char* aws_topic  = "viso/node/displacement";   //viso/node/displacement  $aws/things/esp_example/shadow/update
+char wifi_ssid[]       = "xxxxxxxxx";
+char wifi_password[]   = "xxxxxxxx";
+char aws_endpoint[]    = "xxxxxxxxxxxxxxxxx";
+char aws_key[]         = "xxxxxxxxxxxxxxx";
+char aws_secret[]      = "xxxxxxxxxxxxxx";
+char aws_region[]      = "xxxxxxxxx";
+const char* aws_topic  = "xxxxxxxxxxx";   
 int port = 443;
 
 
